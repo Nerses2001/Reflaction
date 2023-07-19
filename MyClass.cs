@@ -9,5 +9,6 @@ namespace Reflaction
     internal class MyClass
     {
 
+
     }
 }
