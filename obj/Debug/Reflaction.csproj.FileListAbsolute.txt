@@ -1,0 +1,8 @@
+C:\Users\Victus\OneDrive\Desktop\worke\Algorithms\Reflaction\Reflaction\bin\Debug\Reflaction.exe.config
+C:\Users\Victus\OneDrive\Desktop\worke\Algorithms\Reflaction\Reflaction\bin\Debug\Reflaction.exe
+C:\Users\Victus\OneDrive\Desktop\worke\Algorithms\Reflaction\Reflaction\bin\Debug\Reflaction.pdb
+C:\Users\Victus\OneDrive\Desktop\worke\Algorithms\Reflaction\Reflaction\obj\Debug\Reflaction.csproj.AssemblyReference.cache
+C:\Users\Victus\OneDrive\Desktop\worke\Algorithms\Reflaction\Reflaction\obj\Debug\Reflaction.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victus\OneDrive\Desktop\worke\Algorithms\Reflaction\Reflaction\obj\Debug\Reflaction.csproj.CoreCompileInputs.cache
+C:\Users\Victus\OneDrive\Desktop\worke\Algorithms\Reflaction\Reflaction\obj\Debug\Reflaction.exe
+C:\Users\Victus\OneDrive\Desktop\worke\Algorithms\Reflaction\Reflaction\obj\Debug\Reflaction.pdb
